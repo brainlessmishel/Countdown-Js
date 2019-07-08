@@ -1,2 +1,2 @@
 # Countdown-Js
-Just a countdown function.
+# Slide banner-Js
